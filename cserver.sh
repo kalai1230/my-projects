@@ -2,7 +2,7 @@
 threshold=20
 
 # Slack webhook URL
-webhook_url="webhook url of my slack channel"
+webhook_url="webhook url of my slack channel edit"
     # Get CPU usage percentage
     cpu_usage=$(top -bn 1 | awk '/%Cpu/{print $2}')
     
